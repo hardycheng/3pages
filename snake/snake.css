@@ -1,0 +1,11 @@
+body{
+    background:gray;
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+canvas{
+    background: powderblue;
+    width:1000px;
+    height:600px;
+}
